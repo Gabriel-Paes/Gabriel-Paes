@@ -17,7 +17,7 @@ E aí! Eu sou o Gabriel Souza Paes, estudante de programação e um apaixonado p
 
 <div aling="center">
   <a href="https://github.com/Gabriel-Paes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Paes&show_icons=true&bg_color=0D1117&border_color=FFE81F&title_color=FFE81F&text_color=C3D1D9&icon_color= 58A6FF&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Paes&show_icons=true&bg_color=0D1117&border_color=FFE81F&title_color=FFE81F&text_color=C3D1D9&icon_color=58A6FF&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Paes&layout=compact&langs_count=10&bg_color=0D1117&border_color=FFE81F&title_color=FFE81F&text_color=C3D1D9"/>
 </div>
 
