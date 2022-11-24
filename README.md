@@ -11,12 +11,12 @@ E aí! Eu sou o Gabriel Souza Paes, estudante de programação e um apaixonado p
 ### Learning now... 📚
 
 <div>
-  <div class="technology">
-    <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <div style="display: flex; align-items: center;">
+    <img style="margin: 10px; align: center; height: 30px; width: 40px;" alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
     <h4>Angular.js</h4>
   </div>
-  <div class="technology">
-    <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  <div style="display: flex; align-items: center;">
+    <img style="margin: 10px; align: center; height: 30px; width: 40px;" alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
     <h4>.Net Core</h4>
   </div>
 </div>
@@ -37,24 +37,14 @@ E aí! Eu sou o Gabriel Souza Paes, estudante de programação e um apaixonado p
     <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
 
+<br>
+
 <div align="center">
   <img alt="Millennium" height="250"
     src="https://cdn.dribbble.com/users/1107691/screenshots/4523506/media/7f356b2c7d30aabd0037fede0ef3ba3a.gif">
 </div>
 
  ##
-
-
-<style>
-  .technology{
-    display: flex;
-    align-items: center;
-  }
-
-  .technology img{
-    margin: 10px;
-  }
-</style>
 
 <!--
 **Gabriel-Paes/Gabriel-Paes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
