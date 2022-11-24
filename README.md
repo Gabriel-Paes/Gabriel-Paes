@@ -10,8 +10,16 @@ E aí! Eu sou o Gabriel Souza Paes, estudante de programação e um apaixonado p
 
 ### Learning now... 📚
 
-- Angular.js 📡
-- Java ☕
+<div>
+  <div class="technology">
+    <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+    <h4>Angular.js</h4>
+  </div>
+  <div class="technology">
+    <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+    <h4>.Net Core</h4>
+  </div>
+</div>
 
 ##
 
@@ -22,16 +30,31 @@ E aí! Eu sou o Gabriel Souza Paes, estudante de programação e um apaixonado p
 </div>
 
 <div style="display: inline-block; padding: 20px 0px;">
-    <img align="center" alt="Paes-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    <img align="center" alt="Paes-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-    <img align="center" alt="Paes-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-    <img align="center" alt="Paes-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" alt="Paes-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-    <img align="right" alt="Paes-Millennium" height="150"
-     src="https://cdn.dribbble.com/users/1107691/screenshots/4523506/media/7f356b2c7d30aabd0037fede0ef3ba3a.gif">
+    <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    <img align="center" alt="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+</div>
+
+<div align="center">
+  <img alt="Millennium" height="250"
+    src="https://cdn.dribbble.com/users/1107691/screenshots/4523506/media/7f356b2c7d30aabd0037fede0ef3ba3a.gif">
 </div>
 
  ##
+
+
+<style>
+  .technology{
+    display: flex;
+    align-items: center;
+  }
+
+  .technology img{
+    margin: 10px;
+  }
+</style>
 
 <!--
 **Gabriel-Paes/Gabriel-Paes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
